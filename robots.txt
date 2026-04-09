@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://yourwebsite.com/sitemap.xml
+Sitemap: https://how-to-store-yak-chews-properly.netlify.app/sitemap.xml
 
 # Google Bot
 User-agent: Googlebot
